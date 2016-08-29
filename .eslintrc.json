@@ -1,0 +1,12 @@
+{
+  "extends": ["standard", "plugin:fp/recommended"],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "fp",
+    "promise",
+    "standard"
+  ]
+}
